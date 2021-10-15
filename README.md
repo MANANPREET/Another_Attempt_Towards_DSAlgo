@@ -1,2 +1,2 @@
-# Another_Attempt_Towards_DSAlgo
+# Another Attempt Towards DS Algo
 Java DSA Programs
